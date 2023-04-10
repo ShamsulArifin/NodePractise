@@ -2,4 +2,5 @@ const sayHi = (name) => {
   console.log(`Hello there ${name}`);
 };
 
-module.exports = sayHi
+//similar to export default
+module.exports = sayHi;
